@@ -1,0 +1,8 @@
+Origin: iOScj repo
+Label: iOScj repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: 个人插件备用源
